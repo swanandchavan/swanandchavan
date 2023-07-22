@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h2> This is
-  <a href ="https://swanandchavan.devmtf.com/">swanand's</a></h2>
+  <a href ="https://swanandchavan.devmtf.com/">swanand</a></h2>
 <!--
 **swanandchavan/swanandchavan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
